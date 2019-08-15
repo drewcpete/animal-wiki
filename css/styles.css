@@ -1,0 +1,6 @@
+/* .desc {
+  display: none;
+} */
+#squirrel, #wombat, #pig, #hairless-cat {
+  display: none;
+}
